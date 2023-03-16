@@ -8,13 +8,13 @@ last_name: Kasymov
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am students.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Design 
+  - Application programming 
+  - Computer Science
 
 # Education to show in About widget
 education:
@@ -51,27 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/ZaurKasymov
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kasymov Zaur is a first-year student of the Peoples' Friendship University of Russia. He is studying at the Faculty of Physics and Mathematics, in the direction of computer and information sciences.
 {style="text-align: justify;"}
+
