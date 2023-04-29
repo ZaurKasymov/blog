@@ -46,11 +46,39 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+    
   - icon: github
     icon_pack: fab
     link: https://github.com/ZaurKasymov
+ 
+  - icon: book
+    icon_pack: fas
+    link: https://elibrary.ru/
+    
+  - icon: google
+    icon_pack: fab
+    link: https://scholar.google.com/
 
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/
+    
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/
 
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/
+    
+  - icon: history
+    icon_pack: fab
+    link: https://www.academia.edu/
+     
+  - icon: archive
+    icon_pack: fab
+    link: https://arxiv.org/
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
